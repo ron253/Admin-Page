@@ -1,4 +1,4 @@
-# Admin-Page
+# Permission Manager Simulator
 Simulates the permission level(s) for admins and user roles in a user dashboard environment
 
 Tech Stack:
